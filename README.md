@@ -8,13 +8,12 @@ This project focuses on uncovering patterns related to passenger survival based 
 
 ## 📁 Structure
 CelebalTechAssignmentWeek3/
-├── DataVisualization.py # Main Python script with all analysis & plots
+├── Outputs/
 ├── visuals/                     # Folder with all saved plots 
-├── Outputs
+├── DataVisualization.py # Main Python script with all analysis & plots
+├── LICENSE                      # License file (MIT)         
 ├── README.md                    # Project documentation
-├── requirements.txt             # Required Python libraries
-└── LICENSE                      # License file (MIT)
-
+└── requirements.txt             # Required Python libraries  
 
 ---
 
