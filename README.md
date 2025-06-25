@@ -7,8 +7,8 @@ This project focuses on uncovering patterns related to passenger survival based 
 ---
 
 ## 📁 Structure
-CelebalTechAssignmentWeek3/
-├── Outputs/
+CelebalTechAssignmentWeek3/<br>
+├── Outputs/<br>
 ├── visuals/                     # Folder with all saved plots 
 ├── DataVisualization.py # Main Python script with all analysis & plots
 ├── LICENSE                      # License file (MIT)         
